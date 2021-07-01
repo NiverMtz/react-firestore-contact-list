@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-firestore-contact-list/static/js/main.b4c1cb94.chunk.js",
+    "main.js.map": "/react-firestore-contact-list/static/js/main.b4c1cb94.chunk.js.map",
+    "runtime-main.js": "/react-firestore-contact-list/static/js/runtime-main.e805dc20.js",
+    "runtime-main.js.map": "/react-firestore-contact-list/static/js/runtime-main.e805dc20.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/react-firestore-contact-list/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.861b981c.chunk.js": "/react-firestore-contact-list/static/js/2.861b981c.chunk.js",
+    "static/js/2.861b981c.chunk.js.map": "/react-firestore-contact-list/static/js/2.861b981c.chunk.js.map",
+    "index.html": "/react-firestore-contact-list/index.html",
+    "static/css/2.3ab4f688.chunk.css.map": "/react-firestore-contact-list/static/css/2.3ab4f688.chunk.css.map",
+    "static/js/2.861b981c.chunk.js.LICENSE.txt": "/react-firestore-contact-list/static/js/2.861b981c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e805dc20.js",
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.861b981c.chunk.js",
+    "static/js/main.b4c1cb94.chunk.js"
+  ]
+}
