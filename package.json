@@ -2,7 +2,7 @@
   "name": "login-react-firebase",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NiverMtz.github.io/react-firebase-login",
+  "homepage": "https://NiverMtz.github.io/react-firestore-contact-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
